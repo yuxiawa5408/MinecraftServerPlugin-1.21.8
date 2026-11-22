@@ -1,12 +1,17 @@
-Date:       2026.11.22;
-Author:     yuxiluer;
+**Plugin Description**
 
-Plugin Description:
-    This is the first MC server plugin I have written, and it is a work of practice.
-    This plugin only implements some simple functions.
-    For example:
-    Movement speed display;
-    Switching sound effects in the inventory bar;
-    Entering the server for broadcasting;
-    Server memory usage display;
-    The above functions can be controlled by commands, and the command can be viewed by using "/fun".
+FunCommand is my first Minecraft server plugin, developed as a practice project. It provides a small set of lightweight, command-driven features:
+
+- Player movement speed display
+- Hotbar-based sound effect switching
+- Join broadcast messages
+- Server memory usage display
+
+All features are controlled through commands. Run `/fun` in-game to view the available commands and usage.
+
+**Compatibility**
+- Server: Spigot / Paper (Bukkit-based)
+- Minecraft: 1.21.8
+
+**Author:** yuxiluer  
+**Date:** 2026-11-22
