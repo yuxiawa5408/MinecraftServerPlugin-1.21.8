@@ -1,0 +1,11 @@
+name: plugins
+version: '2.0-SNAPSHOT'
+main: com.plugins.test.Plugins
+api-version: '1.21'
+authors: [ yuxiluer ]
+
+commands:
+  fun:
+    description: 控制插件功能开关
+    usage: /fun [功能] [on/off]
+    permission-message: "§c任何人都可以使用此命令！"
